@@ -8,7 +8,7 @@
         <externalId>false</externalId>
         <label>EndpointURL</label>
         <required>false</required>
-        <trackTrending>true</trackTrending>
+        <trackTrending>false</trackTrending>
         <type>Url</type>
     </fields>
     <fields>
